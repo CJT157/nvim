@@ -14,6 +14,7 @@ return {
         },
       }
     },
+    view = { adaptive_size = true },
   },
   config = function (_, opts)
     -- Recommended settings to disable default netrw file explorer
